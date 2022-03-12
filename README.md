@@ -6,7 +6,7 @@ A basic website build with NodeJS.
 
 This project is part of The Odin Project's fullstack curriculum. It entails building a "Basic Informational Website" using NodeJS. The site contains a Home, Contact, About and 404 page.
 
-The live version is hosted by replit.com, you can view it [here.](https://first-node-server.earthhominid.repl.co).
+The live version is hosted by replit.com, you can view it [here.](https://first-node-server.earthhominid.repl.co)
 
 ### Dependencies
 
